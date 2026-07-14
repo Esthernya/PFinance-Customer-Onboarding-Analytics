@@ -53,7 +53,7 @@ PFinance-Customer-Onboarding-Analytics
 
 ## 📊 Dashboard Preview
 
-*(We will insert the dashboard image after uploading it.)*
+![Dashboard Preview](images/dashboard_preview.png)
 
 ---
 
